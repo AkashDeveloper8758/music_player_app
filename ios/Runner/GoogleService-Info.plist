@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAfuHFKAXh_KM7kAo1y7WAwIU3PeLjb_m4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>200162356062</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.musicPlayerNymble</string>
+	<key>PROJECT_ID</key>
+	<string>fluttermain-851dd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fluttermain-851dd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:200162356062:ios:caa2e07f492b9a8d933dcf</string>
+	<key>DATABASE_URL</key>
+	<string>https://fluttermain-851dd.firebaseio.com</string>
+</dict>
+</plist>
