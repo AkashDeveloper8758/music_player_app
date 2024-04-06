@@ -28,17 +28,22 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  bloc: ^8.1.0
   cupertino_icons: ^1.0.2
   dio: ^5.4.2+1
+  equatable: ^2.0.5
+  firebase_core: ^2.27.0
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.5
-  firebase_core: ^2.27.0
+  shared_preferences: ^2.2.2
 
 dev_dependencies:
+  bloc_test: ^9.1.0
   flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
+  mocktail: ^1.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
